@@ -156,21 +156,126 @@
       "id": 27
     }
   ],
-  "Employees": [{
-"name": "Sathish",
-"department":"R&d",
-      "email": "s@gmail.com",
-      "phone": "45456788",
-      "address": "Salem",
-      "id": 1
-}],
-EmployeeData": [{
-"name": "Sathish",
-"department":"R&d",
-      "email": "s@gmail.com",
-      "phone": "45456788",
-      "address": "Salem",
-      "id": 1
-}]
+  "Employees": [
+{
+    "name": "Sathish",
+    "department": "R&D",
+    "email": "s@gmail.com",
+    "phone": "45456788",
+    "address": "Salem",
+    "id": 1
+  },
+  {
+    "name": "Arun Kumar",
+    "department": "Engineering",
+    "email": "arun.kumar@gmail.com",
+    "phone": "9876543210",
+    "address": "Chennai",
+    "id": 2
+  },
+  {
+    "name": "Priya Sharma",
+    "department": "HR",
+    "email": "priya.sharma@gmail.com",
+    "phone": "9123456780",
+    "address": "Bangalore",
+    "id": 3
+  },
+  {
+    "name": "Rahul Verma",
+    "department": "Finance",
+    "email": "rahul.verma@gmail.com",
+    "phone": "9012345678",
+    "address": "Hyderabad",
+    "id": 4
+  },
+  {
+    "name": "Divya Nair",
+    "department": "Marketing",
+    "email": "divya.nair@gmail.com",
+    "phone": "9988776655",
+    "address": "Kochi",
+    "id": 5
+  },
+  {
+    "name": "Karthik R",
+    "department": "R&D",
+    "email": "karthik.r@gmail.com",
+    "phone": "8899776655",
+    "address": "Coimbatore",
+    "id": 6
+  },
+  {
+    "name": "Meena Iyer",
+    "department": "HR",
+    "email": "meena.iyer@gmail.com",
+    "phone": "7788996655",
+    "address": "Madurai",
+    "id": 7
+  },
+  {
+    "name": "Vikram Singh",
+    "department": "Engineering",
+    "email": "vikram.singh@gmail.com",
+    "phone": "6677889900",
+    "address": "Delhi",
+    "id": 8
+  },
+  {
+    "name": "Anjali Gupta",
+    "department": "Finance",
+    "email": "anjali.gupta@gmail.com",
+    "phone": "9988665544",
+    "address": "Mumbai",
+    "id": 9
+  },
+  {
+    "name": "Rohit Das",
+    "department": "Marketing",
+    "email": "rohit.das@gmail.com",
+    "phone": "8877665544",
+    "address": "Kolkata",
+    "id": 10
+  },
+  {
+    "name": "Sneha Reddy",
+    "department": "Engineering",
+    "email": "sneha.reddy@gmail.com",
+    "phone": "7766554433",
+    "address": "Hyderabad",
+    "id": 11
+  },
+  {
+    "name": "Ajay Patel",
+    "department": "Finance",
+    "email": "ajay.patel@gmail.com",
+    "phone": "6655443322",
+    "address": "Ahmedabad",
+    "id": 12
+  },
+  {
+    "name": "Lakshmi Devi",
+    "department": "HR",
+    "email": "lakshmi.devi@gmail.com",
+    "phone": "9988554433",
+    "address": "Trichy",
+    "id": 13
+  },
+  {
+    "name": "Manoj Kumar",
+    "department": "R&D",
+    "email": "manoj.kumar@gmail.com",
+    "phone": "8877554433",
+    "address": "Pune",
+    "id": 14
+  },
+  {
+    "name": "Neha Joshi",
+    "department": "Marketing",
+    "email": "neha.joshi@gmail.com",
+    "phone": "7766443322",
+    "address": "Jaipur",
+    "id": 15
+  }],
 
 }
